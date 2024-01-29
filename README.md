@@ -7,7 +7,7 @@ https://stackoverflow.com/questions/tagged/rust
 https://stackoverflow.com/questions/tagged/rust-cargo                
 https://stackoverflow.com/questions/tagged/rustup              
 
-https://habr.com/ru/hubs/rust/articles
+https://habr.com/ru/hubs/rust/articles                        
 [Wiki; First appeared	May 15, 2015](https://en.wikipedia.org/wiki/Rust_(programming_language))                
 
 ## GitHub            
