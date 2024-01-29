@@ -1,9 +1,25 @@
 # Rust
+https://www.rust-lang.org/
+https://lib.rs
+https://docs.rs
+
 https://stackoverflow.com/questions/tagged/rust              
 https://stackoverflow.com/questions/tagged/rust-cargo                
 https://stackoverflow.com/questions/tagged/rustup              
 
+https://habr.com/ru/hubs/rust/articles
+
+## GitHub            
+**https://github.com/topics/rust**             
+**https://github.com/rust-unofficial/awesome-rust**
+
+https://github.com/rust-lang
+https://github.com/rust-lang/rust
+https://github.com/tauri-apps/tauri
+https://github.com/rust-lang/rustlings -  Small exercises to get you used to reading and writing Rust code!           
+
 ## Installation/Configuration
+**https://www.rust-lang.org/tools/install**
 **2020 [Overriding Rust installation default paths `$HOME/.cargo` and `$HOME/.rustup`](https://stackoverflow.com/questions/57765424/overriding-rust-installation-default-paths-home-cargo-and-home-rustup)**                    
 **2019 [[NOTE] Rust install on Windows in non-default path](https://blog.keithkim.com/2019/12/note-rust-install-on-windows-in-non.html)**          
 metanit: [Создание проекта с помощью Cargo](https://metanit.com/rust/tutorial/9.1.php)         
@@ -24,7 +40,9 @@ video: [👍 Rust #1. Установка языка, настройка сред
 video: [Уроки Rust. Программирование на Rust](https://www.youtube.com/watch?v=Vt4CfEWYuKQ&list=PLgG7lPwNdp556iIin-9eaJLlu7HL6YFv0)         
 video: [Практика языка Rust](https://www.youtube.com/watch?v=Jj260tvle9A&list=PLgG7lPwNdp549XTbALX0yqZY0u0MRPPtX)           
 
-
+### Math
+https://lib.rs/science/math
+https://docs.rs/mathru/latest/mathru/
 
 
 ### IDE
@@ -36,7 +54,7 @@ https://ya.ru/search/?text=GUI+for+Rust
 2024 [The state of Rust GUI libraries](https://blog.logrocket.com/state-rust-gui-libraries)   ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) Tauri
 
 ### Habr 
-
+2024 [Арифметика первого класса в системе типов Rust](https://habr.com/ru/companies/ruvds/articles/787008/)               
 
 
 
