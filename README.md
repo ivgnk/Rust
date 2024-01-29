@@ -8,15 +8,16 @@ https://stackoverflow.com/questions/tagged/rust-cargo
 https://stackoverflow.com/questions/tagged/rustup              
 
 https://habr.com/ru/hubs/rust/articles
+[Wiki; First appeared	May 15, 2015](https://en.wikipedia.org/wiki/Rust_(programming_language))                
 
 ## GitHub            
 **https://github.com/topics/rust**             
-**https://github.com/rust-unofficial/awesome-rust**
+**https://github.com/rust-unofficial/awesome-rust**                        
 
-https://github.com/rust-lang
-https://github.com/rust-lang/rust
-https://github.com/tauri-apps/tauri
-https://github.com/rust-lang/rustlings -  Small exercises to get you used to reading and writing Rust code!           
+https://github.com/rust-lang               
+https://github.com/rust-lang/rust                   
+https://github.com/tauri-apps/tauri                           
+https://github.com/rust-lang/rustlings -  Small exercises to get you used to reading and writing Rust code!                 
 
 ## Installation/Configuration
 **https://www.rust-lang.org/tools/install**
@@ -41,8 +42,8 @@ video: [Уроки Rust. Программирование на Rust](https://www
 video: [Практика языка Rust](https://www.youtube.com/watch?v=Jj260tvle9A&list=PLgG7lPwNdp549XTbALX0yqZY0u0MRPPtX)           
 
 ### Math
-https://lib.rs/science/math
-https://docs.rs/mathru/latest/mathru/
+https://lib.rs/science/math                           
+https://docs.rs/mathru/latest/mathru                        
 
 
 ### IDE
@@ -54,7 +55,15 @@ https://ya.ru/search/?text=GUI+for+Rust
 2024 [The state of Rust GUI libraries](https://blog.logrocket.com/state-rust-gui-libraries)   ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) Tauri
 
 ### Habr 
+2024 [Где бесплатно изучать Rust в 2024](https://habr.com/ru/articles/786176/) ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) VS Code                       
+
+- - - -
+
+2024 [Основы многопоточности в Rust](https://habr.com/ru/companies/otus/articles/788466/)             
+2024 [Как работает управление памятью в Rust без сборщика мусора](https://habr.com/ru/hubs/rust/articles/)            
 2024 [Арифметика первого класса в системе типов Rust](https://habr.com/ru/companies/ruvds/articles/787008/)               
+2024 [Большая шпаргалка по Rust. 1/2](https://habr.com/ru/companies/timeweb/articles/785096/)             
+
 
 
 
