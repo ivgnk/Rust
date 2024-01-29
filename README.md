@@ -55,7 +55,16 @@ https://ya.ru/search/?text=GUI+for+Rust
 2024 [The state of Rust GUI libraries](https://blog.logrocket.com/state-rust-gui-libraries)   ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) Tauri
 
 ### Habr 
-2024 [Где бесплатно изучать Rust в 2024](https://habr.com/ru/articles/786176/) ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) VS Code                       
+![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) 2024 [Где бесплатно изучать Rust в 2024](https://habr.com/ru/articles/786176/)                                            
+https://doc.rust-lang.ru/book
+https://blog.rust-lang.org/
+
+https://github.com/rust-lang/rustlings           
+https://google.github.io/comprehensive-rust            https://github.com/google/comprehensive-rust                     
+https://exercism.org/tracks/rust              
+https://www.youtube.com/@letsgetrusty    https://www.youtube.com/playlist?list=PLlb7e2G7aSpTfhiECYNI2EZ1uAluUqE_e       https://www.youtube.com/watch?v=BpPEoZW5IiY&t=1s                                
+https://stepik.org/course/59778/promo   
+https://learn.microsoft.com/en-us/training/paths/rust-first-steps                                   
 
 - - - -
 
