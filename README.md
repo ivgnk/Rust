@@ -1,12 +1,18 @@
 # Rust
+https://stackoverflow.com/questions/tagged/rust              
+https://stackoverflow.com/questions/tagged/rust-cargo                
+https://stackoverflow.com/questions/tagged/rustup              
 
 ## Installation/Configuration
+**2020 [Overriding Rust installation default paths `$HOME/.cargo` and `$HOME/.rustup`](https://stackoverflow.com/questions/57765424/overriding-rust-installation-default-paths-home-cargo-and-home-rustup)**                    
 **2019 [[NOTE] Rust install on Windows in non-default path](https://blog.keithkim.com/2019/12/note-rust-install-on-windows-in-non.html)**          
 metanit: [Создание проекта с помощью Cargo](https://metanit.com/rust/tutorial/9.1.php)         
 
 ## Common questions
 ### Rust vs C++
 [Rust vs C++ — руководство для инженеров](https://itanddigital.ru/bloghrconsulting/tpost/5u6uxrp4l1-rust-vs-c-rukovodstvo-dlya-inzhenerov)                
+2024 [Rust vs C++: Объясняем Различия и Сходства](https://ru.bitdegree.org/rukovodstvo/rust-vs-cplusplus/)                
+2021 [Чем Rust отличается от «плюсов»: откровение ветерана С++](https://skillbox.ru/media/code/chem-rust-luchshe-plyusov/)          
 2014 [Сравнение Rust и С++ на примерах](https://habr.com/ru/articles/225003/)                
 
 
