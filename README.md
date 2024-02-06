@@ -32,7 +32,8 @@ metanit: [Создание проекта с помощью Cargo](https://metan
 2) Изменить переменные среды
 CARGO_HOME=c:\rust\cargo
 RUSTUP_HOME=c:\rust\rustup
-3) Run rustup-init.exe
+3) Run rustup-init.exe -> Customize installation ->  modify PATH variable: yes
+4) Run rustup-init.exe -> Proceed with installation (default)
 
 ## Common questions
 ### Rust vs C++
