@@ -29,7 +29,10 @@ metanit: [Создание проекта с помощью Cargo](https://metan
 - - -
 ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) My installation stages
 1) Doenload https://static.rust-lang.org/rustup/dist/x86_64-pc-windows-msvc/rustup-init.exe
-2) 
+2) Изменить переменные среды
+CARGO_HOME=c:\rust\cargo
+RUSTUP_HOME=c:\rust\rustup
+3) Run rustup-init.exe
 
 ## Common questions
 ### Rust vs C++
