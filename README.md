@@ -12,6 +12,9 @@ https://habr.com/ru/hubs/rust/articles
 **https://www.opennet.ru/keywords/rust.html**                
 https://www.linux.org.ru/tag/rust                    
 
+**https://rust-lang.ru**              
+**https://doc.rust-lang.ru**         
+
 ## GitHub            
 **https://github.com/topics/rust**             
 **https://github.com/rust-unofficial/awesome-rust**                        
