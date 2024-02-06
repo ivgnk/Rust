@@ -26,6 +26,8 @@ https://github.com/rust-lang/rustlings -  Small exercises to get you used to rea
 **2020 [Overriding Rust installation default paths `$HOME/.cargo` and `$HOME/.rustup`](https://stackoverflow.com/questions/57765424/overriding-rust-installation-default-paths-home-cargo-and-home-rustup)**                    
 **2019 [[NOTE] Rust install on Windows in non-default path](https://blog.keithkim.com/2019/12/note-rust-install-on-windows-in-non.html)**          
 metanit: [Создание проекта с помощью Cargo](https://metanit.com/rust/tutorial/9.1.php)         
+- - -
+![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) My installation stages
 
 ## Common questions
 ### Rust vs C++
